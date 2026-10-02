@@ -1,0 +1,7 @@
+.DS_Store
+cities/.DS_Store
+nature/.DS_Store
+/.idea
+/node_modules
+*.xpi
+*.zip
