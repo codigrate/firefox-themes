@@ -1,1 +1,1750 @@
-# Codigrate Themes for Firefox
+<p align="center">
+   <a href="https://codigrate.com">
+      <img src="./icon.png" alt="Logo" width="200">
+   </a>
+</p>
+
+<h1 align="center">
+Codigrate Themes for Firefox
+</h1>
+
+A carefully crafted collection of Firefox themes inspired by nature and iconic cities around the world.
+Each theme is designed with balance, readability, and everyday browsing comfort in mind, blending distinctive atmospheres
+with thoughtfully tuned colors that make your browser feel both elegant and personal.
+Whether you prefer calm, light environments or deep, immersive dark palettes,
+these themes aim to make your browsing experience visually inspiring and comfortably refined.
+
+## Getting Started
+
+1. Open **Firefox Add-ons** (addons.mozilla.org).
+2. Search for **Codigrate** or the name of the theme.
+3. Open the theme page and click **Install Theme**.
+4. Firefox applies the theme to your browser right away.
+
+## Notes
+
+- These themes are designed for **Mozilla Firefox** on desktop.
+- To switch back, open **Add-ons and Themes** (`Ctrl+Shift+A` / `Cmd+Shift+A`), go to **Themes** and enable another one.
+- Theme appearance may vary slightly depending on your operating system, Firefox version, and display settings.
+
+## Nature
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=everest&category=nature">
+      <img src="nature/everest-theme/icon.png" alt="Everest" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Everest
+</h1>
+
+## Description
+
+Inspired by the icy terraces of Mount Everest and the first light breaking over its peaks, this theme pairs cool white and pale grey backgrounds with deep glacier blues and greens to create a clear and unhurried coding environment. Bright, airy surfaces keep the editor calm, while teals, forest greens, and a warm coral accent add definition and focus to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
+      <td>
+         Summit Snow
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FDFEFF">#FDFEFF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30" alt="#E4ECEF"></td>
+      <td>
+         Morning Mist
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/E4ECEF">#E4ECEF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1A6D9F.png?width=30&height=30" alt="#1A6D9F"></td>
+      <td>
+         Mountain Blue
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1A6D9F">#1A6D9F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/005E79.png?width=30&height=30" alt="#005E79"></td>
+      <td>
+         Blue Ice
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/005E79">#005E79</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/007A47.png?width=30&height=30" alt="#007A47"></td>
+      <td>
+         Juniper
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/007A47">#007A47</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2E674F.png?width=30&height=30" alt="#2E674F"></td>
+      <td>
+         Pine Ridge
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/2E674F">#2E674F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/83529B.png?width=30&height=30" alt="#83529B"></td>
+      <td>
+         Mountain Iris
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/83529B">#83529B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8C4069.png?width=30&height=30" alt="#8C4069"></td>
+      <td>
+         Rhododendron
+      </td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/8C4069">#8C4069</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30" alt="#ED7E5A"></td>
+      <td>
+         Sunrise Flame
+      </td>
+      <td>
+         Active Border Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ED7E5A">#ED7E5A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F4446.png?width=30&height=30" alt="#8F4446"></td>
+      <td>
+         Granite Red
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/8F4446">#8F4446</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=aurora-borealis&category=nature">
+      <img src="nature/aurora-borealis-theme/icon.png" alt="Aurora Borealis" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Aurora Borealis
+</h1>
+
+## Description
+
+Inspired by the Arctic night sky and the slow drift of the Northern Lights, this theme blends deep navy and teal shadows with luminous blue and green accents to create a calm yet vivid coding environment. Dark, cool backgrounds keep the editor restful, while bright cyans, fresh greens, and soft lavenders add clarity and energy to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
+      <td>
+         Polar Night
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/142B37">#142B37</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/123243.png?width=30&height=30" alt="#123243"></td>
+      <td>
+         Arctic Depth
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/123243">#123243</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30" alt="#549EFF"></td>
+      <td>
+         Polar Blue
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/549EFF">#549EFF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30" alt="#7ACEF5"></td>
+      <td>
+         Arctic Cyan
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7ACEF5">#7ACEF5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/043A33.png?width=30&height=30" alt="#043A33"></td>
+      <td>
+         Boreal Pine
+      </td>
+      <td>
+         Active Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/043A33">#043A33</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30" alt="#73D379"></td>
+      <td>
+         Northern Green
+      </td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/73D379">#73D379</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30" alt="#05C0A6"></td>
+      <td>
+         Teal Glow
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/05C0A6">#05C0A6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30" alt="#BB719B"></td>
+      <td>
+         Twilight Rose
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/BB719B">#BB719B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30" alt="#D193BB"></td>
+      <td>
+         Pink Aurora
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D193BB">#D193BB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30" alt="#BAA5FF"></td>
+      <td>
+         Lavender Light
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/BAA5FF">#BAA5FF</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=sakura&category=nature">
+      <img src="nature/sakura-theme/icon.png" alt="Sakura" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Sakura
+</h1>
+
+## Description
+
+Inspired by cherry blossom season and the quiet gardens beneath it, this theme pairs pale petal backgrounds with deep rose and plum accents to create a soft and unhurried coding environment. Light, gentle surfaces keep the editor calm, while muted greens and clear sky blues add balance and focus to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
+      <td>
+         Blossom White
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FEFCFC">#FEFCFC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
+      <td>
+         Petal Veil
+      </td>
+      <td>
+         Separator Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F8DBE6">#F8DBE6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30" alt="#FFC9DC"></td>
+      <td>
+         Full Bloom
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FFC9DC">#FFC9DC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/CB6B91.png?width=30&height=30" alt="#CB6B91"></td>
+      <td>
+         Rose Garden
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/CB6B91">#CB6B91</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/98556C.png?width=30&height=30" alt="#98556C"></td>
+      <td>
+         Plum Wine
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/98556C">#98556C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30" alt="#DBEACB"></td>
+      <td>
+         Spring Leaf
+      </td>
+      <td>
+         Active Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DBEACB">#DBEACB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30" alt="#618C71"></td>
+      <td>
+         Tea Leaf
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/618C71">#618C71</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30" alt="#69A2BD"></td>
+      <td>
+         Spring Rain
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/69A2BD">#69A2BD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30" alt="#607FA9"></td>
+      <td>
+         River Stone
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/607FA9">#607FA9</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/687788.png?width=30&height=30" alt="#687788"></td>
+      <td>
+         Morning Fog
+      </td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/687788">#687788</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=sequoia&category=nature">
+      <img src="nature/sequoia-theme/icon.png" alt="Sequoia" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Sequoia
+</h1>
+
+## Description
+
+Inspired by the towering stillness of a sequoia grove, this theme blends deep forest black and bark brown with living green and moss accents to create a grounded and focused coding environment. Dark, earthy backgrounds settle the editor, while warm tans, rusts, and a clear canopy green add contrast and clarity to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
+      <td>
+         Forest Floor
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/20231C">#20231C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30" alt="#32382C"></td>
+      <td>
+         Evergreen Shade
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/32382C">#32382C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
+      <td>
+         Fern Shade
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/405133">#405133</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6E9F56.png?width=30&height=30" alt="#6E9F56"></td>
+      <td>
+         Meadow Green
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/6E9F56">#6E9F56</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/369772.png?width=30&height=30" alt="#369772"></td>
+      <td>
+         Jade Moss
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/369772">#369772</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30" alt="#A68F59"></td>
+      <td>
+         Golden Bark
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A68F59">#A68F59</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
+      <td>
+         Warm Timber
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A67B5B">#A67B5B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30" alt="#A86255"></td>
+      <td>
+         Redwood Clay
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A86255">#A86255</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30" alt="#986969"></td>
+      <td>
+         Faded Rosewood
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/986969">#986969</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+      <td>
+         Driftwood
+      </td>
+      <td>
+         Comments
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/6C625A">#6C625A</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=autumn&category=nature">
+      <img src="nature/autumn-theme/icon.png" alt="Autumn" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Autumn
+</h1>
+
+## Description
+
+Inspired by fallen leaves and late afternoon sunlight, this theme blends soft parchment backgrounds with rust, copper, and harvest gold to create a warm and unhurried coding environment. Light, gentle surfaces keep the editor comfortable, while deep greens and a quiet teal add contrast and focus to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FCFBFA.png?width=30&height=30" alt="#FCFBFA"></td>
+      <td>
+         Parchment
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FCFBFA">#FCFBFA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
+      <td>
+         Pale Birch
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F8F4F1">#F8F4F1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4D3BD.png?width=30&height=30" alt="#F4D3BD"></td>
+      <td>
+         Apricot Haze
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F4D3BD">#F4D3BD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BE553E.png?width=30&height=30" alt="#BE553E"></td>
+      <td>
+         Maple Rust
+      </td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/BE553E">#BE553E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/773918.png?width=30&height=30" alt="#773918"></td>
+      <td>
+         Acorn Brown
+      </td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/773918">#773918</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B0633A.png?width=30&height=30" alt="#B0633A"></td>
+      <td>
+         Copper Leaf
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B0633A">#B0633A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30" alt="#A87F25"></td>
+      <td>
+         Harvest Gold
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A87F25">#A87F25</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30" alt="#1B591E"></td>
+      <td>
+         Pine Shadow
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1B591E">#1B591E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E8113.png?width=30&height=30" alt="#0E8113"></td>
+      <td>
+         Evergreen
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0E8113">#0E8113</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/006E83.png?width=30&height=30" alt="#006E83"></td>
+      <td>
+         Mallard Teal
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/006E83">#006E83</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=roraima&category=nature">
+      <img src="nature/roraima-theme/icon.png" alt="Roraima" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Roraima
+</h1>
+
+## Description
+
+Inspired by the sunset over Mount Roraima and the slow turn from day to night on its tabletop summit, this theme blends deep brown and clay shadows with amber, gold, and salmon accents to create a soothing yet vivid coding environment. Dark, earthy backgrounds ground the editor, while soft violets and mineral yellows add contrast and focus to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
+      <td>
+         Tepui Night
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1E1A1B">#1E1A1B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
+      <td>
+         Canyon Shadow
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/322628">#322628</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/582F29.png?width=30&height=30" alt="#582F29"></td>
+      <td>
+         Terracotta Shade
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/582F29">#582F29</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
+      <td>
+         Coral Canyon
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D17458">#D17458</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30" alt="#D69568"></td>
+      <td>
+         Amber Sand
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D69568">#D69568</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30" alt="#D1BA46"></td>
+      <td>
+         Savanna Gold
+      </td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D1BA46">#D1BA46</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30" alt="#DDBE6D"></td>
+      <td>
+         Dry Grass
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DDBE6D">#DDBE6D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30" alt="#ED8B8B"></td>
+      <td>
+         Pink Quartz
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ED8B8B">#ED8B8B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
+      <td>
+         Orchid Mist
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/8F78B7">#8F78B7</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30" alt="#7E6AA3"></td>
+      <td>
+         Twilight Violet
+      </td>
+      <td>
+         Tag Name
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7E6AA3">#7E6AA3</a>
+      </td>
+   </tr>
+</table>
+
+## Cities
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=istanbul&category=cities">
+      <img src="cities/istanbul-theme/icon.png" alt="Istanbul" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Istanbul
+</h1>
+
+## Description
+
+Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FAFDFD.png?width=30&height=30" alt="#FAFDFD"></td>
+      <td>
+         Marble White
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FAFDFD">#FAFDFD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DBF0F1.png?width=30&height=30" alt="#DBF0F1"></td>
+      <td>
+         Bosphorus Mist
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DBF0F1">#DBF0F1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A3DDE5.png?width=30&height=30" alt="#A3DDE5"></td>
+      <td>
+         Sea Glass
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A3DDE5">#A3DDE5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1190A1.png?width=30&height=30" alt="#1190A1"></td>
+      <td>
+         Bosphorus Teal
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1190A1">#1190A1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0887B5.png?width=30&height=30" alt="#0887B5"></td>
+      <td>
+         Marmara Blue
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0887B5">#0887B5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EFEAD0.png?width=30&height=30" alt="#EFEAD0"></td>
+      <td>
+         Old Parchment
+      </td>
+      <td>
+         Active Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/EFEAD0">#EFEAD0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B87958.png?width=30&height=30" alt="#B87958"></td>
+      <td>
+         Copper Bazaar
+      </td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B87958">#B87958</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B8514D.png?width=30&height=30" alt="#B8514D"></td>
+      <td>
+         Rooftop Red
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B8514D">#B8514D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C16979.png?width=30&height=30" alt="#C16979"></td>
+      <td>
+         Tulip Pink
+      </td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/C16979">#C16979</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/9C6E7C.png?width=30&height=30" alt="#9C6E7C"></td>
+      <td>
+         Ottoman Rose
+      </td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/9C6E7C">#9C6E7C</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=miami&category=cities">
+      <img src="cities/miami-theme/icon.png" alt="Miami" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Miami
+</h1>
+
+## Description
+
+Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
+      <td>
+         Midnight Vice
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/33121D">#33121D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/532033.png?width=30&height=30" alt="#532033"></td>
+      <td>
+         Plum Night
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/532033">#532033</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
+      <td>
+         Miami Pink
+      </td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FF5FA2">#FF5FA2</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30" alt="#FE788C"></td>
+      <td>
+         Flamingo
+      </td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FE788C">#FE788C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30" alt="#FE8078"></td>
+      <td>
+         Sunset Coral
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FE8078">#FE8078</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30" alt="#F2A4A0"></td>
+      <td>
+         Coral Haze
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F2A4A0">#F2A4A0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30" alt="#92B5E8"></td>
+      <td>
+         Art Deco Blue
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/92B5E8">#92B5E8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30" alt="#00D1C1"></td>
+      <td>
+         Electric Aqua
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/00D1C1">#00D1C1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/82D59F.png?width=30&height=30" alt="#82D59F"></td>
+      <td>
+         Palm Green
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/82D59F">#82D59F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F8D273.png?width=30&height=30" alt="#F8D273"></td>
+      <td>
+         Golden Sand
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F8D273">#F8D273</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=rio-de-janeiro&category=cities">
+      <img src="cities/rio-de-janeiro-theme/icon.png" alt="Rio de Janeiro" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Rio de Janeiro
+</h1>
+
+## Description
+
+Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F7FAF6.png?width=30&height=30" alt="#F7FAF6"></td>
+      <td>
+         Morning Breeze
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F7FAF6">#F7FAF6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D9EFD2.png?width=30&height=30" alt="#D9EFD2"></td>
+      <td>
+         Palm Shade
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D9EFD2">#D9EFD2</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30" alt="#85B778"></td>
+      <td>
+         Jungle Canopy
+      </td>
+      <td>
+         Separator Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/85B778">#85B778</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/13A166.png?width=30&height=30" alt="#13A166"></td>
+      <td>
+         Emerald Palm
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/13A166">#13A166</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/028134.png?width=30&height=30" alt="#028134"></td>
+      <td>
+         Deep Jungle
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/028134">#028134</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
+      <td>
+         Guanabara Blue
+      </td>
+      <td>
+         Secondary Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/2287D5">#2287D5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
+      <td>
+         Atlantic Blue
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0A80B3">#0A80B3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1065B8.png?width=30&height=30" alt="#1065B8"></td>
+      <td>
+         Bay Blue
+      </td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1065B8">#1065B8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
+      <td>
+         Golden Samba
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A3860A">#A3860A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30" alt="#ECDA61"></td>
+      <td>
+         Ipanema Sun
+      </td>
+      <td>
+         Search Match Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ECDA61">#ECDA61</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=paris&category=cities">
+      <img src="cities/paris-theme/icon.png" alt="Paris" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Paris
+</h1>
+
+## Description
+
+Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/281D22.png?width=30&height=30" alt="#281D22"></td>
+      <td>
+         Parisian Night
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/281D22">#281D22</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/4F303C.png?width=30&height=30" alt="#4F303C"></td>
+      <td>
+         Cabaret Shadow
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/4F303C">#4F303C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30" alt="#6A3C4D"></td>
+      <td>
+         Rosewood
+      </td>
+      <td>
+         Separator Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/6A3C4D">#6A3C4D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D584A3.png?width=30&height=30" alt="#D584A3"></td>
+      <td>
+         Montmartre Rose
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D584A3">#D584A3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
+      <td>
+         Cherry Macaron
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DF7583">#DF7583</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30" alt="#F3B7A9"></td>
+      <td>
+         Peach Macaron
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F3B7A9">#F3B7A9</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FBBA77.png?width=30&height=30" alt="#FBBA77"></td>
+      <td>
+         Cafe Lights
+      </td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FBBA77">#FBBA77</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F1C970.png?width=30&height=30" alt="#F1C970"></td>
+      <td>
+         Champagne Gold
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F1C970">#F1C970</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
+      <td>
+         Seine Blue
+      </td>
+      <td>
+         Secondary Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5E7BB3">#5E7BB3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30" alt="#87A1D3"></td>
+      <td>
+         Twilight Blue
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/87A1D3">#87A1D3</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=tallinn&category=cities">
+      <img src="cities/tallinn-theme/icon.png" alt="Tallinn" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Tallinn
+</h1>
+
+## Description
+
+Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EDF2FA.png?width=30&height=30" alt="#EDF2FA"></td>
+      <td>
+         Baltic Morning
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/EDF2FA">#EDF2FA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D0DCEF.png?width=30&height=30" alt="#D0DCEF"></td>
+      <td>
+         Winter Sky
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D0DCEF">#D0DCEF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/377CC1.png?width=30&height=30" alt="#377CC1"></td>
+      <td>
+         Harbor Blue
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/377CC1">#377CC1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/425EB8.png?width=30&height=30" alt="#425EB8"></td>
+      <td>
+         Cobalt Spire
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/425EB8">#425EB8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/324979.png?width=30&height=30" alt="#324979"></td>
+      <td>
+         Old Town Indigo
+      </td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/324979">#324979</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/81549C.png?width=30&height=30" alt="#81549C"></td>
+      <td>
+         Amethyst
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/81549C">#81549C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30" alt="#B6564B"></td>
+      <td>
+         Brick Lane
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B6564B">#B6564B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
+      <td>
+         Weathered Brick
+      </td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B1544B">#B1544B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30" alt="#548A64"></td>
+      <td>
+         Courtyard Green
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/548A64">#548A64</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1E7857.png?width=30&height=30" alt="#1E7857"></td>
+      <td>
+         Spruce Green
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1E7857">#1E7857</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=tokyo&category=cities">
+      <img src="cities/tokyo-theme/icon.png" alt="Tokyo" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Tokyo
+</h1>
+
+## Description
+
+Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere. Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add clarity and energy to key syntax elements.
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30" alt="#1A1F35"></td>
+      <td>
+         Tokyo Midnight
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1A1F35">#1A1F35</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30" alt="#2A3051"></td>
+      <td>
+         Indigo District
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/2A3051">#2A3051</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
+      <td>
+         Metro Indigo
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7B89C8">#7B89C8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7FA0DD.png?width=30&height=30" alt="#7FA0DD"></td>
+      <td>
+         Skyline Blue
+      </td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7FA0DD">#7FA0DD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30" alt="#7285DC"></td>
+      <td>
+         Shibuya Blue
+      </td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7285DC">#7285DC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30" alt="#ECA1EB"></td>
+      <td>
+         Pink Neon
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ECA1EB">#ECA1EB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D3B690.png?width=30&height=30" alt="#D3B690"></td>
+      <td>
+         Paper Lantern
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D3B690">#D3B690</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DD9B7F.png?width=30&height=30" alt="#DD9B7F"></td>
+      <td>
+         Amber Sign
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DD9B7F">#DD9B7F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30" alt="#5CC19D"></td>
+      <td>
+         Matcha Neon
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5CC19D">#5CC19D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30" alt="#5DC8D6"></td>
+      <td>
+         Cyan Sign
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5DC8D6">#5DC8D6</a>
+      </td>
+   </tr>
+</table>
+
+<!-- codigrate-readme-footer -->
+
+## Contributing
+
+Issues and suggestions are welcome. Open an issue on this repository, or reach us at [info@codigrate.com](mailto:info@codigrate.com).
+
+## Contributors
+
+<a href="https://github.com/codigrate/firefox-themes/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=codigrate/firefox-themes" alt="Contributors"/>
+</a>
+
+## License
+
+The source code for this project is released under the [MIT License](LICENSE).
+
+## Codigrate
+
+Themes, color tools and developer experience products from [Codigrate](https://codigrate.com).
+
+<p align="center">
+   <a href="https://codigrate.com/themes">All Themes</a> ·
+   <a href="https://codigrate.com/tools">Color Tools</a> ·
+   <a href="https://codigrate.com/plugins">Plugins</a> ·
+   <a href="https://codigrate.com/blog">Blog</a> ·
+   <a href="https://github.com/codigrate">GitHub</a>
+</p>
+
+<table align="right"><tr><td><a href="https://codigrate.com"><img src="https://raw.githubusercontent.com/codigrate/codigrate.github.io/main/assets/logo/brand-logo.png" width="50px" alt="logo"/></a></td><td><b>Codigrate © 2026</b></td></tr></table>
