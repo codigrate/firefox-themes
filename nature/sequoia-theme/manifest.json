@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Sequoia",
+  "version": "2026.1.27",
+  "description": "A dark Firefox theme inspired by Sequoia, featuring deep forest tones, earthy browns, and natural green accents.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=sequoia&category=nature",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sequoia-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#394132",
+      "frame_inactive": "#394132",
+      "tab_background_text": "#849184",
+      "tab_selected": "#32382C",
+      "tab_text": "#BABEBA",
+      "tab_line": "#73A621",
+      "tab_loading": "#73A621",
+      "tab_background_separator": "#849184",
+      "toolbar": "#32382C",
+      "toolbar_text": "#BABEBA",
+      "icons": "#73A621",
+      "icons_attention": "#788B40",
+      "button_background_hover": "#202C13",
+      "button_background_active": "#405133",
+      "toolbar_top_separator": "#394132",
+      "toolbar_bottom_separator": "#394132",
+      "toolbar_vertical_separator": "#394132",
+      "toolbar_field": "#0E0E0E",
+      "toolbar_field_text": "#BABEBA",
+      "toolbar_field_border": "#394132",
+      "toolbar_field_focus": "#0E0E0E",
+      "toolbar_field_text_focus": "#BABEBA",
+      "toolbar_field_border_focus": "#4D6A33",
+      "toolbar_field_highlight": "#405133",
+      "toolbar_field_highlight_text": "#BABEBA",
+      "popup": "#32382C",
+      "popup_text": "#BABEBA",
+      "popup_border": "#394132",
+      "popup_highlight": "#405133",
+      "popup_highlight_text": "#BABEBA",
+      "sidebar": "#32382C",
+      "sidebar_text": "#BABEBA",
+      "sidebar_border": "#394132",
+      "sidebar_highlight": "#405133",
+      "sidebar_highlight_text": "#BABEBA",
+      "ntp_background": "#20231C",
+      "ntp_card_background": "#32382C",
+      "ntp_text": "#BABEBA"
+    },
+    "properties": {
+      "color_scheme": "dark"
+    }
+  }
+}

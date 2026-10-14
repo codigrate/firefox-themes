@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Rio de Janeiro",
+  "version": "2026.1.23",
+  "description": "A light Firefox theme inspired by Rio de Janeiro, featuring tropical greens, sunny warmth, and fresh vibrant accents.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=rio-de-janeiro&category=cities",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "rio-de-janeiro-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#85B778",
+      "frame_inactive": "#85B778",
+      "tab_background_text": "#2D7B18",
+      "tab_selected": "#D9EFD2",
+      "tab_text": "#1A510A",
+      "tab_line": "#375B2E",
+      "tab_loading": "#375B2E",
+      "tab_background_separator": "#2D7B18",
+      "toolbar": "#D9EFD2",
+      "toolbar_text": "#1A510A",
+      "icons": "#375B2E",
+      "icons_attention": "#2287D5",
+      "button_background_hover": "#B4DEA8",
+      "button_background_active": "#B8E5AD",
+      "toolbar_top_separator": "#85B778",
+      "toolbar_bottom_separator": "#85B778",
+      "toolbar_vertical_separator": "#85B778",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#1A510A",
+      "toolbar_field_border": "#85B778",
+      "toolbar_field_focus": "#FFFFFF",
+      "toolbar_field_text_focus": "#1A510A",
+      "toolbar_field_border_focus": "#47A731",
+      "toolbar_field_highlight": "#B8E5AD",
+      "toolbar_field_highlight_text": "#1A510A",
+      "popup": "#D9EFD2",
+      "popup_text": "#1A510A",
+      "popup_border": "#85B778",
+      "popup_highlight": "#B8E5AD",
+      "popup_highlight_text": "#1A510A",
+      "sidebar": "#D9EFD2",
+      "sidebar_text": "#1A510A",
+      "sidebar_border": "#85B778",
+      "sidebar_highlight": "#B8E5AD",
+      "sidebar_highlight_text": "#1A510A",
+      "ntp_background": "#F8FBF7",
+      "ntp_card_background": "#D9EFD2",
+      "ntp_text": "#1A510A"
+    },
+    "properties": {
+      "color_scheme": "light"
+    }
+  }
+}

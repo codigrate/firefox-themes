@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Everest",
+  "version": "2026.1.26",
+  "description": "A light Firefox theme inspired by Everest, featuring crisp snow tones, soft blue accents, and warm highlights.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=everest&category=nature",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "everest-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#CADAE0",
+      "frame_inactive": "#CADAE0",
+      "tab_background_text": "#567B8A",
+      "tab_selected": "#E4ECEF",
+      "tab_text": "#0E3448",
+      "tab_line": "#246A89",
+      "tab_loading": "#246A89",
+      "tab_background_separator": "#567B8A",
+      "toolbar": "#E4ECEF",
+      "toolbar_text": "#0E3448",
+      "icons": "#246A89",
+      "icons_attention": "#EC9C81",
+      "button_background_hover": "#D5D8E7",
+      "button_background_active": "#B6D8E5",
+      "toolbar_top_separator": "#CADAE0",
+      "toolbar_bottom_separator": "#CADAE0",
+      "toolbar_vertical_separator": "#CADAE0",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#0E3448",
+      "toolbar_field_border": "#CADAE0",
+      "toolbar_field_focus": "#FFFFFF",
+      "toolbar_field_text_focus": "#0E3448",
+      "toolbar_field_border_focus": "#7EBBD5",
+      "toolbar_field_highlight": "#B6D8E5",
+      "toolbar_field_highlight_text": "#0E3448",
+      "popup": "#E4ECEF",
+      "popup_text": "#0E3448",
+      "popup_border": "#CADAE0",
+      "popup_highlight": "#B6D8E5",
+      "popup_highlight_text": "#0E3448",
+      "sidebar": "#E4ECEF",
+      "sidebar_text": "#0E3448",
+      "sidebar_border": "#CADAE0",
+      "sidebar_highlight": "#B6D8E5",
+      "sidebar_highlight_text": "#0E3448",
+      "ntp_background": "#FDFEFF",
+      "ntp_card_background": "#E4ECEF",
+      "ntp_text": "#0E3448"
+    },
+    "properties": {
+      "color_scheme": "light"
+    }
+  }
+}

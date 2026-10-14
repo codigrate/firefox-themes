@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Miami",
+  "version": "2026.1.25",
+  "description": "A dark Firefox theme inspired by Miami, featuring neon pink highlights, deep magenta tones, and vibrant retro accents.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=miami&category=cities",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "miami-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#5D263A",
+      "frame_inactive": "#5D263A",
+      "tab_background_text": "#CCA2B6",
+      "tab_selected": "#532033",
+      "tab_text": "#D5C6CE",
+      "tab_line": "#FF5FA2",
+      "tab_loading": "#FF5FA2",
+      "tab_background_separator": "#CCA2B6",
+      "toolbar": "#532033",
+      "toolbar_text": "#D5C6CE",
+      "icons": "#FF5FA2",
+      "icons_attention": "#17C7AC",
+      "button_background_hover": "#3C1724",
+      "button_background_active": "#722E47",
+      "toolbar_top_separator": "#5D263A",
+      "toolbar_bottom_separator": "#5D263A",
+      "toolbar_vertical_separator": "#5D263A",
+      "toolbar_field": "#270D16",
+      "toolbar_field_text": "#D5C6CE",
+      "toolbar_field_border": "#5D263A",
+      "toolbar_field_focus": "#270D16",
+      "toolbar_field_text_focus": "#D5C6CE",
+      "toolbar_field_border_focus": "#99224D",
+      "toolbar_field_highlight": "#722E47",
+      "toolbar_field_highlight_text": "#D5C6CE",
+      "popup": "#532033",
+      "popup_text": "#D5C6CE",
+      "popup_border": "#5D263A",
+      "popup_highlight": "#722E47",
+      "popup_highlight_text": "#D5C6CE",
+      "sidebar": "#532033",
+      "sidebar_text": "#D5C6CE",
+      "sidebar_border": "#5D263A",
+      "sidebar_highlight": "#722E47",
+      "sidebar_highlight_text": "#D5C6CE",
+      "ntp_background": "#33121D",
+      "ntp_card_background": "#532033",
+      "ntp_text": "#D5C6CE"
+    },
+    "properties": {
+      "color_scheme": "dark"
+    }
+  }
+}

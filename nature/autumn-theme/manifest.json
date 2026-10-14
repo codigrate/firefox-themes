@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Autumn",
+  "version": "2026.1.27",
+  "description": "A light Firefox theme inspired by Autumn, featuring soft cream tones, warm browns, and gentle seasonal accents.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=autumn&category=nature",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "autumn-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#EFE6E0",
+      "frame_inactive": "#EFE6E0",
+      "tab_background_text": "#82614C",
+      "tab_selected": "#F8F4F1",
+      "tab_text": "#2E1B0F",
+      "tab_line": "#A7714C",
+      "tab_loading": "#A7714C",
+      "tab_background_separator": "#82614C",
+      "toolbar": "#F8F4F1",
+      "toolbar_text": "#2E1B0F",
+      "icons": "#A7714C",
+      "icons_attention": "#DEA51D",
+      "button_background_hover": "#F3D3C7",
+      "button_background_active": "#F4D3BD",
+      "toolbar_top_separator": "#EFE6E0",
+      "toolbar_bottom_separator": "#EFE6E0",
+      "toolbar_vertical_separator": "#EFE6E0",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#2E1B0F",
+      "toolbar_field_border": "#EFE6E0",
+      "toolbar_field_focus": "#FFFFFF",
+      "toolbar_field_text_focus": "#2E1B0F",
+      "toolbar_field_border_focus": "#C78B63",
+      "toolbar_field_highlight": "#F4D3BD",
+      "toolbar_field_highlight_text": "#2E1B0F",
+      "popup": "#F8F4F1",
+      "popup_text": "#2E1B0F",
+      "popup_border": "#EFE6E0",
+      "popup_highlight": "#F4D3BD",
+      "popup_highlight_text": "#2E1B0F",
+      "sidebar": "#F8F4F1",
+      "sidebar_text": "#2E1B0F",
+      "sidebar_border": "#EFE6E0",
+      "sidebar_highlight": "#F4D3BD",
+      "sidebar_highlight_text": "#2E1B0F",
+      "ntp_background": "#FFFFFF",
+      "ntp_card_background": "#F8F4F1",
+      "ntp_text": "#2E1B0F"
+    },
+    "properties": {
+      "color_scheme": "light"
+    }
+  }
+}

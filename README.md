@@ -43,6 +43,10 @@ these themes aim to make your browsing experience visually inspiring and comfort
 
 Inspired by the icy terraces of Mount Everest and the first light breaking over its peaks, this theme pairs cool white and pale grey backgrounds with deep glacier blues and greens to create a clear and unhurried coding environment. Bright, airy surfaces keep the editor calm, while teals, forest greens, and a warm coral accent add definition and focus to key syntax elements.
 
+## Screenshots
+
+<img src="nature/everest-theme/screenshot-1.png" alt="Everest screenshot">
+
 ## Color Palette
 
 <table>
@@ -183,6 +187,10 @@ Inspired by the icy terraces of Mount Everest and the first light breaking over 
 ## Description
 
 Inspired by the Arctic night sky and the slow drift of the Northern Lights, this theme blends deep navy and teal shadows with luminous blue and green accents to create a calm yet vivid coding environment. Dark, cool backgrounds keep the editor restful, while bright cyans, fresh greens, and soft lavenders add clarity and energy to key syntax elements.
+
+## Screenshots
+
+<img src="nature/aurora-borealis-theme/screenshot-1.png" alt="Aurora Borealis screenshot">
 
 ## Color Palette
 
@@ -325,6 +333,10 @@ Inspired by the Arctic night sky and the slow drift of the Northern Lights, this
 
 Inspired by cherry blossom season and the quiet gardens beneath it, this theme pairs pale petal backgrounds with deep rose and plum accents to create a soft and unhurried coding environment. Light, gentle surfaces keep the editor calm, while muted greens and clear sky blues add balance and focus to key syntax elements.
 
+## Screenshots
+
+<img src="nature/sakura-theme/screenshot-1.png" alt="Sakura screenshot">
+
 ## Color Palette
 
 <table>
@@ -465,6 +477,10 @@ Inspired by cherry blossom season and the quiet gardens beneath it, this theme p
 ## Description
 
 Inspired by the towering stillness of a sequoia grove, this theme blends deep forest black and bark brown with living green and moss accents to create a grounded and focused coding environment. Dark, earthy backgrounds settle the editor, while warm tans, rusts, and a clear canopy green add contrast and clarity to key syntax elements.
+
+## Screenshots
+
+<img src="nature/sequoia-theme/screenshot-1.png" alt="Sequoia screenshot">
 
 ## Color Palette
 
@@ -607,6 +623,10 @@ Inspired by the towering stillness of a sequoia grove, this theme blends deep fo
 
 Inspired by fallen leaves and late afternoon sunlight, this theme blends soft parchment backgrounds with rust, copper, and harvest gold to create a warm and unhurried coding environment. Light, gentle surfaces keep the editor comfortable, while deep greens and a quiet teal add contrast and focus to key syntax elements.
 
+## Screenshots
+
+<img src="nature/autumn-theme/screenshot-1.png" alt="Autumn screenshot">
+
 ## Color Palette
 
 <table>
@@ -747,6 +767,10 @@ Inspired by fallen leaves and late afternoon sunlight, this theme blends soft pa
 ## Description
 
 Inspired by the sunset over Mount Roraima and the slow turn from day to night on its tabletop summit, this theme blends deep brown and clay shadows with amber, gold, and salmon accents to create a soothing yet vivid coding environment. Dark, earthy backgrounds ground the editor, while soft violets and mineral yellows add contrast and focus to key syntax elements.
+
+## Screenshots
+
+<img src="nature/roraima-theme/screenshot-1.png" alt="Roraima screenshot">
 
 ## Color Palette
 
@@ -889,6 +913,10 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 
 Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential syntax elements.
 
+## Screenshots
+
+<img src="cities/istanbul-theme/screenshot-1.png" alt="Istanbul screenshot">
+
 ## Color Palette
 
 <table>
@@ -1029,6 +1057,10 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
 ## Description
 
 Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
+
+## Screenshots
+
+<img src="cities/miami-theme/screenshot-1.png" alt="Miami screenshot">
 
 ## Color Palette
 
@@ -1171,6 +1203,10 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
 
 Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
 
+## Screenshots
+
+<img src="cities/rio-de-janeiro-theme/screenshot-1.png" alt="Rio de Janeiro screenshot">
+
 ## Color Palette
 
 <table>
@@ -1311,6 +1347,10 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
 ## Description
 
 Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
+
+## Screenshots
+
+<img src="cities/paris-theme/screenshot-1.png" alt="Paris screenshot">
 
 ## Color Palette
 
@@ -1453,6 +1493,10 @@ Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright
 
 Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
 
+## Screenshots
+
+<img src="cities/tallinn-theme/screenshot-1.png" alt="Tallinn screenshot">
+
 ## Color Palette
 
 <table>
@@ -1594,6 +1638,10 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
 
 Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere. Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add clarity and energy to key syntax elements.
 
+## Screenshots
+
+<img src="cities/tokyo-theme/screenshot-1.png" alt="Tokyo screenshot">
+
 ## Color Palette
 
 <table>
@@ -1729,6 +1777,9 @@ Issues and suggestions are welcome. Open an issue on this repository, or reach u
 
 <a href="https://github.com/codigrate/firefox-themes/graphs/contributors">
    <img src="https://contrib.rocks/image?repo=codigrate/firefox-themes" alt="Contributors"/>
+</a>
+<a href="https://github.com/terjr938">
+   <img src="https://github.com/terjr938.png?size=64" width="64" height="64" alt="terjr938"/>
 </a>
 
 ## License

@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Paris",
+  "version": "2026.1.22",
+  "description": "A dark Firefox theme inspired by Paris, featuring deep rosewood tones, dusty pink accents, and elegant evening contrast.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=paris&category=cities",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "paris-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#6A3C4D",
+      "frame_inactive": "#6A3C4D",
+      "tab_background_text": "#C79FAE",
+      "tab_selected": "#4F303C",
+      "tab_text": "#E6D7DD",
+      "tab_line": "#D18FA8",
+      "tab_loading": "#D18FA8",
+      "tab_background_separator": "#C79FAE",
+      "toolbar": "#4F303C",
+      "toolbar_text": "#E6D7DD",
+      "icons": "#D18FA8",
+      "icons_attention": "#5E7BB3",
+      "button_background_hover": "#3C252D",
+      "button_background_active": "#5D3F49",
+      "toolbar_top_separator": "#6A3C4D",
+      "toolbar_bottom_separator": "#6A3C4D",
+      "toolbar_vertical_separator": "#6A3C4D",
+      "toolbar_field": "#100D0E",
+      "toolbar_field_text": "#E6D7DD",
+      "toolbar_field_border": "#6A3C4D",
+      "toolbar_field_focus": "#100D0E",
+      "toolbar_field_text_focus": "#E6D7DD",
+      "toolbar_field_border_focus": "#9B6479",
+      "toolbar_field_highlight": "#5D3F49",
+      "toolbar_field_highlight_text": "#E6D7DD",
+      "popup": "#4F303C",
+      "popup_text": "#E6D7DD",
+      "popup_border": "#6A3C4D",
+      "popup_highlight": "#5D3F49",
+      "popup_highlight_text": "#E6D7DD",
+      "sidebar": "#4F303C",
+      "sidebar_text": "#E6D7DD",
+      "sidebar_border": "#6A3C4D",
+      "sidebar_highlight": "#5D3F49",
+      "sidebar_highlight_text": "#E6D7DD",
+      "ntp_background": "#281D22",
+      "ntp_card_background": "#4F303C",
+      "ntp_text": "#E6D7DD"
+    },
+    "properties": {
+      "color_scheme": "dark"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Tokyo",
+  "version": "2026.1.22",
+  "description": "A dark Firefox theme inspired by Tokyo, featuring deep indigo tones, neon blue accents, and a futuristic night mood.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=tokyo&category=cities",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tokyo-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#323B66",
+      "frame_inactive": "#323B66",
+      "tab_background_text": "#858EB7",
+      "tab_selected": "#2A3051",
+      "tab_text": "#AEB2C3",
+      "tab_line": "#7285DC",
+      "tab_loading": "#7285DC",
+      "tab_background_separator": "#858EB7",
+      "toolbar": "#2A3051",
+      "toolbar_text": "#AEB2C3",
+      "icons": "#7285DC",
+      "icons_attention": "#714CE3",
+      "button_background_hover": "#1D2445",
+      "button_background_active": "#354172",
+      "toolbar_top_separator": "#323B66",
+      "toolbar_bottom_separator": "#323B66",
+      "toolbar_vertical_separator": "#323B66",
+      "toolbar_field": "#0C0F1C",
+      "toolbar_field_text": "#AEB2C3",
+      "toolbar_field_border": "#323B66",
+      "toolbar_field_focus": "#0C0F1C",
+      "toolbar_field_text_focus": "#AEB2C3",
+      "toolbar_field_border_focus": "#4758A9",
+      "toolbar_field_highlight": "#354172",
+      "toolbar_field_highlight_text": "#AEB2C3",
+      "popup": "#2A3051",
+      "popup_text": "#AEB2C3",
+      "popup_border": "#323B66",
+      "popup_highlight": "#354172",
+      "popup_highlight_text": "#AEB2C3",
+      "sidebar": "#2A3051",
+      "sidebar_text": "#AEB2C3",
+      "sidebar_border": "#323B66",
+      "sidebar_highlight": "#354172",
+      "sidebar_highlight_text": "#AEB2C3",
+      "ntp_background": "#1A1F35",
+      "ntp_card_background": "#2A3051",
+      "ntp_text": "#AEB2C3"
+    },
+    "properties": {
+      "color_scheme": "dark"
+    }
+  }
+}

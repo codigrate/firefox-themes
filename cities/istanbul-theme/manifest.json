@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Codigrate Istanbul",
+  "version": "2026.1.23",
+  "description": "A light Firefox theme inspired by Istanbul, featuring soft turquoise tones, Bosphorus blues, and warm elegant accents.",
+  "author": "Codigrate",
+  "homepage_url": "https://codigrate.com/theme?product=istanbul&category=cities",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "istanbul-theme@codigrate.com",
+      "strict_min_version": "109.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#91D1DA",
+      "frame_inactive": "#91D1DA",
+      "tab_background_text": "#0E6876",
+      "tab_selected": "#DBF0F1",
+      "tab_text": "#083A41",
+      "tab_line": "#087E8E",
+      "tab_loading": "#087E8E",
+      "tab_background_separator": "#0E6876",
+      "toolbar": "#DBF0F1",
+      "toolbar_text": "#083A41",
+      "icons": "#087E8E",
+      "icons_attention": "#12ACC1",
+      "button_background_hover": "#B7E2E3",
+      "button_background_active": "#A3DDE5",
+      "toolbar_top_separator": "#91D1DA",
+      "toolbar_bottom_separator": "#91D1DA",
+      "toolbar_vertical_separator": "#91D1DA",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#083A41",
+      "toolbar_field_border": "#91D1DA",
+      "toolbar_field_focus": "#FFFFFF",
+      "toolbar_field_text_focus": "#083A41",
+      "toolbar_field_border_focus": "#12ACC1",
+      "toolbar_field_highlight": "#A3DDE5",
+      "toolbar_field_highlight_text": "#083A41",
+      "popup": "#DBF0F1",
+      "popup_text": "#083A41",
+      "popup_border": "#91D1DA",
+      "popup_highlight": "#A3DDE5",
+      "popup_highlight_text": "#083A41",
+      "sidebar": "#DBF0F1",
+      "sidebar_text": "#083A41",
+      "sidebar_border": "#91D1DA",
+      "sidebar_highlight": "#A3DDE5",
+      "sidebar_highlight_text": "#083A41",
+      "ntp_background": "#FAFDFD",
+      "ntp_card_background": "#DBF0F1",
+      "ntp_text": "#083A41"
+    },
+    "properties": {
+      "color_scheme": "light"
+    }
+  }
+}
