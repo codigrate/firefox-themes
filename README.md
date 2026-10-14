@@ -30,7 +30,7 @@ these themes aim to make your browsing experience visually inspiring and comfort
 ## Nature
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=everest&category=nature">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-everest/">
       <img src="nature/everest-theme/icon.png" alt="Everest" width="160">
    </a>
 </p>
@@ -38,6 +38,10 @@ these themes aim to make your browsing experience visually inspiring and comfort
 <h1 align="center">
    Everest
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-everest?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-everest/)
+[![Users](https://img.shields.io/amo/users/codigrate-everest?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-everest/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-everest?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-everest/)
 
 ## Description
 
@@ -175,7 +179,7 @@ Inspired by the icy terraces of Mount Everest and the first light breaking over 
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=aurora-borealis&category=nature">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-aurora-borealis/">
       <img src="nature/aurora-borealis-theme/icon.png" alt="Aurora Borealis" width="160">
    </a>
 </p>
@@ -183,6 +187,10 @@ Inspired by the icy terraces of Mount Everest and the first light breaking over 
 <h1 align="center">
    Aurora Borealis
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-aurora-borealis?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-aurora-borealis/)
+[![Users](https://img.shields.io/amo/users/codigrate-aurora-borealis?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-aurora-borealis/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-aurora-borealis?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-aurora-borealis/)
 
 ## Description
 
@@ -320,7 +328,7 @@ Inspired by the Arctic night sky and the slow drift of the Northern Lights, this
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=sakura&category=nature">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-sakura/">
       <img src="nature/sakura-theme/icon.png" alt="Sakura" width="160">
    </a>
 </p>
@@ -328,6 +336,10 @@ Inspired by the Arctic night sky and the slow drift of the Northern Lights, this
 <h1 align="center">
    Sakura
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-sakura?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-sakura/)
+[![Users](https://img.shields.io/amo/users/codigrate-sakura?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-sakura/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-sakura?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-sakura/)
 
 ## Description
 
@@ -465,7 +477,7 @@ Inspired by cherry blossom season and the quiet gardens beneath it, this theme p
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=sequoia&category=nature">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-sequoia/">
       <img src="nature/sequoia-theme/icon.png" alt="Sequoia" width="160">
    </a>
 </p>
@@ -473,6 +485,10 @@ Inspired by cherry blossom season and the quiet gardens beneath it, this theme p
 <h1 align="center">
    Sequoia
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-sequoia?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-sequoia/)
+[![Users](https://img.shields.io/amo/users/codigrate-sequoia?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-sequoia/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-sequoia?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-sequoia/)
 
 ## Description
 
@@ -610,7 +626,7 @@ Inspired by the towering stillness of a sequoia grove, this theme blends deep fo
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=autumn&category=nature">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-autumn/">
       <img src="nature/autumn-theme/icon.png" alt="Autumn" width="160">
    </a>
 </p>
@@ -618,6 +634,10 @@ Inspired by the towering stillness of a sequoia grove, this theme blends deep fo
 <h1 align="center">
    Autumn
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-autumn?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-autumn/)
+[![Users](https://img.shields.io/amo/users/codigrate-autumn?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-autumn/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-autumn?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-autumn/)
 
 ## Description
 
@@ -755,7 +775,7 @@ Inspired by fallen leaves and late afternoon sunlight, this theme blends soft pa
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=roraima&category=nature">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-roraima/">
       <img src="nature/roraima-theme/icon.png" alt="Roraima" width="160">
    </a>
 </p>
@@ -763,6 +783,10 @@ Inspired by fallen leaves and late afternoon sunlight, this theme blends soft pa
 <h1 align="center">
    Roraima
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-roraima?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-roraima/)
+[![Users](https://img.shields.io/amo/users/codigrate-roraima?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-roraima/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-roraima?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-roraima/)
 
 ## Description
 
@@ -900,7 +924,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 ## Cities
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=istanbul&category=cities">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-istanbul/">
       <img src="cities/istanbul-theme/icon.png" alt="Istanbul" width="160">
    </a>
 </p>
@@ -908,6 +932,10 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 <h1 align="center">
    Istanbul
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-istanbul?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-istanbul/)
+[![Users](https://img.shields.io/amo/users/codigrate-istanbul?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-istanbul/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-istanbul?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-istanbul/)
 
 ## Description
 
@@ -1045,7 +1073,7 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=miami&category=cities">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-miami/">
       <img src="cities/miami-theme/icon.png" alt="Miami" width="160">
    </a>
 </p>
@@ -1053,6 +1081,10 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
 <h1 align="center">
    Miami
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-miami?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-miami/)
+[![Users](https://img.shields.io/amo/users/codigrate-miami?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-miami/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-miami?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-miami/)
 
 ## Description
 
@@ -1190,7 +1222,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=rio-de-janeiro&category=cities">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-rio-de-janeiro/">
       <img src="cities/rio-de-janeiro-theme/icon.png" alt="Rio de Janeiro" width="160">
    </a>
 </p>
@@ -1198,6 +1230,10 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
 <h1 align="center">
    Rio de Janeiro
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-rio-de-janeiro?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-rio-de-janeiro/)
+[![Users](https://img.shields.io/amo/users/codigrate-rio-de-janeiro?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-rio-de-janeiro/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-rio-de-janeiro?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-rio-de-janeiro/)
 
 ## Description
 
@@ -1335,7 +1371,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=paris&category=cities">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-paris/">
       <img src="cities/paris-theme/icon.png" alt="Paris" width="160">
    </a>
 </p>
@@ -1343,6 +1379,10 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
 <h1 align="center">
    Paris
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-paris?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-paris/)
+[![Users](https://img.shields.io/amo/users/codigrate-paris?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-paris/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-paris?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-paris/)
 
 ## Description
 
@@ -1480,7 +1520,7 @@ Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=tallinn&category=cities">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-tallinn/">
       <img src="cities/tallinn-theme/icon.png" alt="Tallinn" width="160">
    </a>
 </p>
@@ -1488,6 +1528,10 @@ Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright
 <h1 align="center">
    Tallinn
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-tallinn?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-tallinn/)
+[![Users](https://img.shields.io/amo/users/codigrate-tallinn?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-tallinn/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-tallinn?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-tallinn/)
 
 ## Description
 
@@ -1625,7 +1669,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=tokyo&category=cities">
+   <a href="https://addons.mozilla.org/en-US/firefox/addon/codigrate-tokyo/">
       <img src="cities/tokyo-theme/icon.png" alt="Tokyo" width="160">
    </a>
 </p>
@@ -1633,6 +1677,10 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
 <h1 align="center">
    Tokyo
 </h1>
+
+[![Version](https://img.shields.io/amo/v/codigrate-tokyo?label=Version&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-tokyo/)
+[![Users](https://img.shields.io/amo/users/codigrate-tokyo?label=Users&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-tokyo/)
+[![Rating](https://img.shields.io/amo/rating/codigrate-tokyo?label=Rating&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/codigrate-tokyo/)
 
 ## Description
 
