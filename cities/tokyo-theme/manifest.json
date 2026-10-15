@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Tokyo",
-  "version": "2026.1.22",
+  "version": "2026.1.23",
   "description": "A dark Firefox theme inspired by Tokyo, featuring deep indigo tones, neon blue accents, and a futuristic night mood.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=tokyo&category=cities",
   "browser_specific_settings": {
     "gecko": {
       "id": "tokyo-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#7285DC",
       "tab_loading": "#7285DC",
       "tab_background_separator": "#858EB7",
-      "toolbar": "#2A3051",
+      "toolbar": "rgba(0, 0, 0, 0.2)",
       "toolbar_text": "#AEB2C3",
       "icons": "#7285DC",
       "icons_attention": "#714CE3",
       "button_background_hover": "#1D2445",
       "button_background_active": "#354172",
-      "toolbar_top_separator": "#323B66",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#323B66",
       "toolbar_vertical_separator": "#323B66",
       "toolbar_field": "#0C0F1C",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#2A3051",
       "ntp_text": "#AEB2C3"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #373E61 0%, #313D79 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "dark"
+      "color_scheme": "dark",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

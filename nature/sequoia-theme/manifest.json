@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Sequoia",
-  "version": "2026.1.27",
+  "version": "2026.1.28",
   "description": "A dark Firefox theme inspired by Sequoia, featuring deep forest tones, earthy browns, and natural green accents.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=sequoia&category=nature",
   "browser_specific_settings": {
     "gecko": {
       "id": "sequoia-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#73A621",
       "tab_loading": "#73A621",
       "tab_background_separator": "#849184",
-      "toolbar": "#32382C",
+      "toolbar": "rgba(0, 0, 0, 0.2)",
       "toolbar_text": "#BABEBA",
       "icons": "#73A621",
       "icons_attention": "#788B40",
       "button_background_hover": "#202C13",
       "button_background_active": "#405133",
-      "toolbar_top_separator": "#394132",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#394132",
       "toolbar_vertical_separator": "#394132",
       "toolbar_field": "#0E0E0E",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#32382C",
       "ntp_text": "#BABEBA"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #393F33 0%, #424E36 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "dark"
+      "color_scheme": "dark",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

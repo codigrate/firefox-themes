@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Everest",
-  "version": "2026.1.26",
+  "version": "2026.1.27",
   "description": "A light Firefox theme inspired by Everest, featuring crisp snow tones, soft blue accents, and warm highlights.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=everest&category=nature",
   "browser_specific_settings": {
     "gecko": {
       "id": "everest-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#246A89",
       "tab_loading": "#246A89",
       "tab_background_separator": "#567B8A",
-      "toolbar": "#E4ECEF",
+      "toolbar": "rgba(255, 255, 255, 0.4)",
       "toolbar_text": "#0E3448",
       "icons": "#246A89",
       "icons_attention": "#EC9C81",
       "button_background_hover": "#D5D8E7",
       "button_background_active": "#B6D8E5",
-      "toolbar_top_separator": "#CADAE0",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#CADAE0",
       "toolbar_vertical_separator": "#CADAE0",
       "toolbar_field": "#FFFFFF",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#E4ECEF",
       "ntp_text": "#0E3448"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #CCD9DE 0%, #BDD5DE 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "light"
+      "color_scheme": "light",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

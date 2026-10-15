@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Sakura",
-  "version": "2026.1.27",
+  "version": "2026.1.28",
   "description": "A light Firefox theme inspired by Sakura, featuring soft pink tones, rose accents, and gentle spring colors.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=sakura&category=nature",
   "browser_specific_settings": {
     "gecko": {
       "id": "sakura-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#B54B66",
       "tab_loading": "#B54B66",
       "tab_background_separator": "#94667D",
-      "toolbar": "#FCF4F7",
+      "toolbar": "rgba(255, 255, 255, 0.4)",
       "toolbar_text": "#3D0013",
       "icons": "#B54B66",
       "icons_attention": "#EFA5BF",
       "button_background_hover": "#FFD6E0",
       "button_background_active": "#FFC9DC",
-      "toolbar_top_separator": "#F8DBE6",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#F8DBE6",
       "toolbar_vertical_separator": "#F8DBE6",
       "toolbar_field": "#FFFFFF",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#FCF4F7",
       "ntp_text": "#3D0013"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #F5DEE7 0%, #F9CADC 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "light"
+      "color_scheme": "light",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

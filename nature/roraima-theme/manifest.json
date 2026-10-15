@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Roraima",
-  "version": "2026.1.29",
+  "version": "2026.1.30",
   "description": "A dark Firefox theme inspired by Roraima, featuring volcanic tones, warm coral accents, and earthy contrasts.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=roraima&category=nature",
   "browser_specific_settings": {
     "gecko": {
       "id": "roraima-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#CC654E",
       "tab_loading": "#CC654E",
       "tab_background_separator": "#AD8A8A",
-      "toolbar": "#322628",
+      "toolbar": "rgba(0, 0, 0, 0.2)",
       "toolbar_text": "#CEC1C1",
       "icons": "#CC654E",
       "icons_attention": "#8F78B7",
       "button_background_hover": "#5F2F27",
       "button_background_active": "#582F29",
-      "toolbar_top_separator": "#372C2F",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#372C2F",
       "toolbar_vertical_separator": "#372C2F",
       "toolbar_field": "#171415",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#322628",
       "ntp_text": "#CEC1C1"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #362D30 0%, #443136 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "dark"
+      "color_scheme": "dark",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

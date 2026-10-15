@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Paris",
-  "version": "2026.1.22",
+  "version": "2026.1.23",
   "description": "A dark Firefox theme inspired by Paris, featuring deep rosewood tones, dusty pink accents, and elegant evening contrast.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=paris&category=cities",
   "browser_specific_settings": {
     "gecko": {
       "id": "paris-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#D18FA8",
       "tab_loading": "#D18FA8",
       "tab_background_separator": "#C79FAE",
-      "toolbar": "#4F303C",
+      "toolbar": "rgba(0, 0, 0, 0.2)",
       "toolbar_text": "#E6D7DD",
       "icons": "#D18FA8",
       "icons_attention": "#5E7BB3",
       "button_background_hover": "#3C252D",
       "button_background_active": "#5D3F49",
-      "toolbar_top_separator": "#6A3C4D",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#6A3C4D",
       "toolbar_vertical_separator": "#6A3C4D",
       "toolbar_field": "#100D0E",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#4F303C",
       "ntp_text": "#E6D7DD"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #65414E 0%, #7C3C54 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "dark"
+      "color_scheme": "dark",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

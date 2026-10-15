@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Aurora Borealis",
-  "version": "2026.1.27",
+  "version": "2026.1.28",
   "description": "A dark Firefox theme inspired by Aurora Borealis, featuring deep blues and teal accents designed for comfortable browsing.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=aurora-borealis&category=nature",
   "browser_specific_settings": {
     "gecko": {
       "id": "aurora-borealis-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#7AC6F5",
       "tab_loading": "#7AC6F5",
       "tab_background_separator": "#85A2B3",
-      "toolbar": "#123243",
+      "toolbar": "rgba(0, 0, 0, 0.2)",
       "toolbar_text": "#B0B9BE",
       "icons": "#7AC6F5",
       "icons_attention": "#A55CC8",
       "button_background_hover": "#112631",
       "button_background_active": "#1E3F53",
-      "toolbar_top_separator": "#1A3746",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#1A3746",
       "toolbar_vertical_separator": "#1A3746",
       "toolbar_field": "#112733",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#123243",
       "ntp_text": "#B0B9BE"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #1E3642 0%, #194359 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "dark"
+      "color_scheme": "dark",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

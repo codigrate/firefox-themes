@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Rio de Janeiro",
-  "version": "2026.1.23",
+  "version": "2026.1.24",
   "description": "A light Firefox theme inspired by Rio de Janeiro, featuring tropical greens, sunny warmth, and fresh vibrant accents.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=rio-de-janeiro&category=cities",
   "browser_specific_settings": {
     "gecko": {
       "id": "rio-de-janeiro-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#375B2E",
       "tab_loading": "#375B2E",
       "tab_background_separator": "#2D7B18",
-      "toolbar": "#D9EFD2",
+      "toolbar": "rgba(255, 255, 255, 0.4)",
       "toolbar_text": "#1A510A",
       "icons": "#375B2E",
       "icons_attention": "#2287D5",
       "button_background_hover": "#B4DEA8",
       "button_background_active": "#B8E5AD",
-      "toolbar_top_separator": "#85B778",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#85B778",
       "toolbar_vertical_separator": "#85B778",
       "toolbar_field": "#FFFFFF",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#D9EFD2",
       "ntp_text": "#1A510A"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #89B17E 0%, #77BA66 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "light"
+      "color_scheme": "light",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }

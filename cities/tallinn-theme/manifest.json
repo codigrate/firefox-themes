@@ -1,14 +1,14 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Codigrate Tallinn",
-  "version": "2026.1.23",
+  "version": "2026.1.24",
   "description": "A light Firefox theme inspired by Tallinn, featuring cool Nordic blues, soft frosty tones, and elegant accents.",
   "author": "Codigrate",
   "homepage_url": "https://codigrate.com/theme?product=tallinn&category=cities",
   "browser_specific_settings": {
     "gecko": {
       "id": "tallinn-theme@codigrate.com",
-      "strict_min_version": "109.0"
+      "strict_min_version": "156.0"
     }
   },
   "theme": {
@@ -21,13 +21,13 @@
       "tab_line": "#3F4494",
       "tab_loading": "#3F4494",
       "tab_background_separator": "#184092",
-      "toolbar": "#D0DCEF",
+      "toolbar": "rgba(255, 255, 255, 0.4)",
       "toolbar_text": "#0F244F",
       "icons": "#3F4494",
       "icons_attention": "#7179CC",
       "button_background_hover": "#B8D0F3",
       "button_background_active": "#BECCEC",
-      "toolbar_top_separator": "#A9B9DA",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
       "toolbar_bottom_separator": "#A9B9DA",
       "toolbar_vertical_separator": "#A9B9DA",
       "toolbar_field": "#FFFFFF",
@@ -52,8 +52,22 @@
       "ntp_card_background": "#D0DCEF",
       "ntp_text": "#0F244F"
     },
+    "images": {
+      "additional_backgrounds": [
+        {
+          "linear-gradient": "to right, #AEBBD5 0%, #98AEDC 100%"
+        }
+      ]
+    },
     "properties": {
-      "color_scheme": "light"
+      "color_scheme": "light",
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ],
+      "additional_backgrounds_size": [
+        "auto"
+      ],
+      "backgrounds_area": "window"
     }
   }
 }
